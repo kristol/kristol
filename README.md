@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kristol
+- 👀 I’m interested in Webdevelopment
+- 🌱 I’m currently learning Webdevelopment
+- 📫 How to reach me: Howl at the moon exactly at 4am!
